@@ -7,7 +7,7 @@
         <link rel="stylesheet" href="./style/style.css">
         <link rel="stylesheet" href="./librery/Bootstrap/css/bootstrap.min.css">
         
-        <link rel="manifest" href="./manifest.json">
+        <link rel="manifest" href="manifest.json">
         
         <!-- android -->
         
