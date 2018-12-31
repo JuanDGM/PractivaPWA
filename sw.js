@@ -6,19 +6,19 @@ const DYNAMIC_CACHE   = 'dynamic-v1';
 const INMUTABLE_CACHE = 'inmutable-v1';
 
 const APP_SHELL=[
-    '/',
-    './index.php',
-    './style/style.css',
-    './js/app.js',
-    './sw.js',
-    './manifest.json',
-    './sw-utils.js'
+    //'/',
+    'index.php',
+    'style/style.css',
+    'js/app.js',
+    'sw.js',
+    'manifest.json',
+    'sw-utils.js'
 ];
 
 const APP_INMUTABLE=[
-    './librery/Bootstrap/css/bootstrap.min.css',
-    './librery/js/jquery-3.2.1.min.js',
-    './librery/Bootstrap/js/bootstrap.min.js'
+    'librery/Bootstrap/css/bootstrap.min.css',
+    'librery/js/jquery-3.2.1.min.js',
+    'librery/Bootstrap/js/bootstrap.min.js'
 ];
 
 self.addEventListener('install', e=>{
