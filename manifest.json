@@ -1,12 +1,14 @@
+
 {
-"short_name":"App Juan",
-"name":"Es la primer app",    
-"start_url": "index.php",
-"background_color": "green",
-"theme-color":"green",    
-"display": "standalone",
-"orientation": "landscape",    
-   "icons": [
+
+  "short_name": "Practica PWA3",
+  "name": "Twuittor para heroes",
+  "start_url":"index.php",
+  "background_color": "#3498bd",
+   "theme_color": "#3498bd", 
+   "display":"standalone", 
+    "orientation":"portrait",
+  "icons": [
     {
         "src": "img/icons/icon-72x72.png",
         "type": "image/png",
@@ -49,4 +51,6 @@
     }
   ]
 
-}
+  }
+
+
