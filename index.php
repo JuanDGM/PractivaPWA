@@ -4,8 +4,8 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
         <title></title>
-        <link rel="stylesheet" href="./style/style.css">
-        <link rel="stylesheet" href="./librery/Bootstrap/css/bootstrap.min.css">
+        <link rel="stylesheet" href="style/style.css">
+        <link rel="stylesheet" href="librery/Bootstrap/css/bootstrap.min.css">
         
         <link rel="manifest" href="manifest.json">
         
@@ -23,8 +23,8 @@
         <article></article>
         </div>
         
-        <script src="./js/app.js"></script>
-        <script src="./librery/js/jquery-3.2.1.min.js"></script>
-        <script src="./librery/Bootstrap/js/bootstrap.min.js"></script>
+        <script src="js/app.js"></script>
+        <script src="librery/js/jquery-3.2.1.min.js"></script>
+        <script src="librery/Bootstrap/js/bootstrap.min.js"></script>
     </body>
 </html>
