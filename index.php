@@ -11,8 +11,7 @@
         <link rel="manifest" href="manifest.json">
         
         <!-- android -->
-        
-        <meta name="theme-color" content="red">
+        <meta name="theme-color" content="#3498bd">
         
     </head>
     <body>
