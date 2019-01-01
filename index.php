@@ -7,6 +7,7 @@
         <link rel="stylesheet" href="style/style.css">
         <link rel="stylesheet" href="librery/Bootstrap/css/bootstrap.min.css">
         
+        <link rel="shortcut icon" type="image/ico" href="img/favicon.ico"/>
         <link rel="manifest" href="manifest.json">
         
         <!-- android -->
