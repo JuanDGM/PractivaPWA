@@ -6,7 +6,6 @@ const DYNAMIC_CACHE   = 'dynamic-v1';
 const INMUTABLE_CACHE = 'inmutable-v1';
 
 const APP_SHELL=[
-    '/',
     'index.php',
     'style/style.css',
     'js/app.js',
