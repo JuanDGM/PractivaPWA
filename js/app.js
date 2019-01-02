@@ -1,10 +1,18 @@
 
-//var url =window.location.href;
+var url =window.location.href;
 
-//var 
+var swLocation = '/PractivaPWA/sw.js'; 
 
 
 if(navigator.serviceWorker){
-   //navigator.serviceWorker.register('sw.js'); 
-   navigator.serviceWorker.register('PractivaPWA/sw.js'); 
+   
+    if(url.includes('localhost')){
+    
+    navigator.serviceWorker.register('./sw.js'); 
+   
+   }else{
+    navigator.serviceWorker.register(swLocation);    
+       
+   }
+   
 }

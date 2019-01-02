@@ -6,8 +6,8 @@ const DYNAMIC_CACHE   = 'dynamic-v1';
 const INMUTABLE_CACHE = 'inmutable-v1';
 
 const APP_SHELL=[
-    '/',
-    '/PractivaPWA/index.php',
+    //'/',
+    'index.php',
     'style/style.css',
     'js/app.js',
     'sw.js',
