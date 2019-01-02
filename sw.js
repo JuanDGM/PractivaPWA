@@ -7,7 +7,7 @@ const INMUTABLE_CACHE = 'inmutable-v1';
 
 const APP_SHELL=[
     '/',
-    'index.php',
+    '/PractivaPWA/index.php',
     'style/style.css',
     'js/app.js',
     'sw.js',
